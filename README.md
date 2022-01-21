@@ -1,4 +1,4 @@
-# Map-Reduce File Processor
+# Map-Reduce File Processor #
 
     The purpose of the current assignment was to create a multi-threaded
 program able to process files using the map-reduce paradigm. It relies on
